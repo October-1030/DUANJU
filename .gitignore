@@ -1,6 +1,7 @@
 # Binaries
 bin/
 drama-generator
+huobao-drama
 backend
 *.exe
 *.dll
